@@ -1,0 +1,8 @@
+wenxin:
+  base_url: "WENXIN BASE URL"
+  chat_completion_path: "CHAT COMPLETION PATH"
+  access_token: "ACCESS TOKEN"
+token:
+  - "YOUR TOKEN"
+  - "YOUR TOKEN"
+  - "YOUR TOKEN"
